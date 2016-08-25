@@ -1,2 +1,3 @@
-# CustomTabBarDemo
-自定义TabBar
+# 自定义TabBar
+>一种使用控制器占位，然后添加自定义的中间按钮(简单)
+>另外一种使用KVC，自定义UITabBar，在自定义UITabBar文件中添加中间按钮(复杂)
